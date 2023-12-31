@@ -1,4 +1,4 @@
-'use stroke'
+'use strict'
 
 const getTotalBalanceByGender = (users, gender) =>
   users
